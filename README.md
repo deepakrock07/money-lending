@@ -23,10 +23,7 @@ The peer-to-peer money lending web application developed using the Tech stack (P
    *  User interface: The web application will have a user-friendly interface that will allow borrowers and lenders to create profiles, communicate with each other, and track loan progress. The interface will also allow for easy navigation and browsing of loan applications. 
    *  Security features: The web application will have robust security features, such as encryption of user data and multi-factor authentication, to ensure the safety of sensitive information. The platform will comply with relevant data protection regulations and industry standards to maintain the highest levels of security.
 
-## Team Members:
-  * Ritika Pandey
-  * Abhijit singh
-  * Tanush C
+
 ## Tech Stack Used:
    * Frontend :
      + HTML
